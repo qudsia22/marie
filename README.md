@@ -23,7 +23,7 @@ Michael
 Neuron
 Qudsia
 Rexdylan
-SHAGUN NIKKE CHURASIA
+SHAGUN
 Shruti
 SHUBHAJYOTI
 Tunnix
