@@ -1,2 +1,2 @@
 n= "shruti"
-print n
+print(n)
