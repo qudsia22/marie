@@ -1,1 +1,2 @@
-
+n= "shruti"
+print n
