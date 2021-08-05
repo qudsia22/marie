@@ -7,7 +7,7 @@ Stage: Zero
 Contributors:
 
 
-Team:                 Language:
+Team Members:
 
 Abdullah
 AditiSingh12345
