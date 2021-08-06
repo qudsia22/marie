@@ -6,5 +6,6 @@ cd marie
 sh shruti.sh > temp.csv
 perl Lakshmi.pl >> temp.csv
 php lokesh.php >> temp.csv
+octave shruti.m >> temp.csv
 
 
