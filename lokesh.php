@@ -1,3 +1,4 @@
+#!/usr/bin/php
 <?php
  $txt1 = "loke , lokesh7418187@gmail.com, Lokesh ,@genomics ,lokesh74181 ,";
 function hammingDist($str1, $str2)
