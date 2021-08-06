@@ -3,9 +3,9 @@
 git clone https://github.com/imshruti/marie.git
 cd marie
 
-sh shruti.sh > a.csv
-echo $(perl Lakshmi.pl) >> a.csv
-echo $(perl lokesh.php) >> a.csv
-echo $(octave shruti.m) >> a.csv
+sh shruti.sh > temp.csv
+echo $(perl Lakshmi.pl) >> temp.csv
+echo $(perl lokesh.php) >> temp.csv
+echo $(octave shruti.m) >> temp.csv
 
-
+mv temp.csv task1_team_marie.csv
